@@ -1,2 +1,2 @@
 # initialtrace.github.io
-WebSite Inatial Trace
+WebSite Initial Trace
